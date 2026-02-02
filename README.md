@@ -1,4 +1,5 @@
 CodeAlpha_task
+
 Python Programming Tasks – Common Project
 📌 Overview
 This project contains multiple beginner-friendly Python tasks designed to strengthen core programming concepts such as loops, conditionals, functions, dictionaries, and user input/output.
