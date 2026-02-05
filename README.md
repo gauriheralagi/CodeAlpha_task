@@ -16,7 +16,11 @@ Task 4: Basic Chatbot
 These programs are console-based and do not require any external libraries.
 
 📁 Folder Structure
-Python_Tasks/ │ ├── task1_hangman.py ├── task2_stock_portfolio.py ├── task4_chatbot.py └── README.md
+Python_Tasks/ │ 
+├── hangman.py 
+├── stock_portfolio.py
+├── chatbot.py 
+└── README.md
 
 🛠 Requirements
 Python 3.x
