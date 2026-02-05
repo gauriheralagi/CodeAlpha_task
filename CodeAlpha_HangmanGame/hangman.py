@@ -37,3 +37,4 @@ while chances > 0:
 
 if chances == 0:
     print(" Game Over! Word was:", secret_word)
+
