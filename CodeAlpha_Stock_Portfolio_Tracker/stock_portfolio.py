@@ -25,3 +25,4 @@ with open("my_stocks.txt", "w") as f:
     f.write("Overall Investment: " + str(final_amount))
 
 print("Saved in my_stocks.txt")
+
