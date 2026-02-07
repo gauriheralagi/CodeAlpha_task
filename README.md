@@ -17,10 +17,15 @@ These programs are console-based and do not require any external libraries.
 
 📁 Folder Structure
 Python_Tasks/ │ 
+
 ├── hangman.py 
+
 ├── stock_portfolio.py
+
 ├── chatbot.py 
+
 └── README.md
+
 
 🛠 Requirements
 Python 3.x
